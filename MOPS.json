@@ -1,12 +1,14 @@
 {
 	"env": [
 		{
-			"MOPS": "C:/Users/Henry/Projects/VFX/MOPS"
-		},
+			"MOPS": "C:\Users\orlan\OneDrive\Dokumente\GitHub\MOPS		},
 		{
 			"HOUDINI_PYTHONWARNINGS": "ignore"
 		},
 	],
 	"path": "$MOPS"
+        "load at once" : true,
+        "enable" true,
+        "env":
 	
 }
